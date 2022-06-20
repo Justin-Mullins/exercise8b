@@ -1,0 +1,1 @@
+Let there be a text file named myfile.txt. We need to open the file in read mode. The read mode is specified by r. The file can be opened using open. The two parameters passed are the name of the file and the mode in which the file needs to be opened.
